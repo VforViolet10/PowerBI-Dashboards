@@ -28,7 +28,7 @@ Each project is based on a different dataset and focuses on solving a specific a
 
 | # | Dashboard   | Domain              | Key Analysis                      |
 | - | ----------- | ------------------- | --------------------------------- |
-| 1 | Dashboard 1 | Sales Analytics     | Revenue, products & customers     |
+| 1 | Sales_Dashboard | Sales Analytics     | Revenue, products & customers     |
 
 > More dashboards will be added as the repository grows.
 
