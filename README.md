@@ -29,6 +29,7 @@ Each project is based on a different dataset and focuses on solving a specific a
 | # | Dashboard   | Domain              | Key Analysis                      |
 | - | ----------- | ------------------- | --------------------------------- |
 | 1 | Sales_Dashboard | Sales Analytics     | Revenue, products & customers     |
+| 2 | Student_Dashboard | Education Analytics     | Student performance, attendance & academic trends     |
 
 > More dashboards will be added as the repository grows.
 
